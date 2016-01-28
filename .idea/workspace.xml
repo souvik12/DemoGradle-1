@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf29da05-4b3f-41a9-b8a4-772975ca7337" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp1/DemoApp1/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2.xcodeproj/xcuserdata/hbrien.xcuserdatad/xcschemes/DemoApp2.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2.xcodeproj/xcuserdata/hbrien.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/Base.lproj/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/Base.lproj/Main.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/DataViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/DataViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/ModelController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/ModelController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/RootViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/RootViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2Tests/DemoApp2Tests.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2Tests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2UITests/DemoApp2UITests.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../AppDynamicsMobileWorkspace/DemoApp2/DemoApp2UITests/Info.plist" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/ADEUMInstrumentation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Headers/ADEumInstrumentation.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Resources/Readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Versions/A/ADEUMInstrumentation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Versions/A/Headers/ADEumInstrumentation.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Versions/A/Resources/Readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Versions/Current/ADEUMInstrumentation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Versions/Current/Headers/ADEumInstrumentation.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeDemo/ADEUMInstrumentation.framework/Versions/Current/Resources/Readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/ADEUMInstrumentation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Headers/ADEumInstrumentation.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Resources/Readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Versions/A/ADEUMInstrumentation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Versions/A/Headers/ADEumInstrumentation.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Versions/A/Resources/Readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Versions/Current/ADEUMInstrumentation" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Versions/Current/Headers/ADEumInstrumentation.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AcmeMobileShoppingDemo/ADEUMInstrumentation.framework/Versions/Current/Resources/Readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../AppDynamics-Downloads/agents-latest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Commandline/REST_Example/REST_Example.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Commandline/REST_Example/REST_Example.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Commandline/REST_Example/REST_Example.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Commandline/REST_Example/REST_Example/main.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../QwyvrBackend/Dockerfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../QwyvrBackend/apache-config.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../QwyvrBackend/start-container.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../QwyvrBackend/www/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoOne/DemoOne.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoOne/DemoOne.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoOne/DemoOne.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoOne/DemoOne/main.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/DataViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/ModelController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwo/RootViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwoTests/DemoTwoTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoOne/DemoTwo/DemoTwo/DemoTwoTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThree/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThreeTests/DemoThreeTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/DemoThree/DemoThree/DemoThreeTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/DataViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/ModelController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklist/RootViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklistTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SESChecklist/SESChecklistTests/SESChecklistTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/MyPlayground.playground/Results.playgrounddata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/MyPlayground.playground/contents.xcplayground" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/MyPlayground.playground/section-1.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView/TipCalculatorModel.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleView/ViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleViewTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../SESIOS/SingleView/SingleView/SingleViewTests/SingleViewTests.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/FirstViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/FirstViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Images.xcassets/first.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Images.xcassets/first.imageset/first.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Images.xcassets/second.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Images.xcassets/second.imageset/second.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/SecondViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/SecondViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoApp/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoAppTests/DemoAppTests.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/DemoApp/DemoAppTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList.xcodeproj/project.xcworkspace/xcuserdata/hbrien.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList.xcodeproj/xcuserdata/hbrien.xcuserdatad/xcschemes/ToDoList.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/Base.lproj/LaunchScreen.xib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/ViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/ViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoList/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoListTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../XCodeQwyvrProjects/ToDoList/ToDoListTests/ToDoListTests.m" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../JohnsHopkinsDataScience/ProgrammingInR/Project1/complete.R" afterPath="$PROJECT_DIR$/../../JohnsHopkinsDataScience/ProgrammingInR/Project1/complete.R" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../JohnsHopkinsDataScience/ProgrammingInR/Project1/pollutantmean.R" afterPath="$PROJECT_DIR$/../../JohnsHopkinsDataScience/ProgrammingInR/Project1/pollutantmean.R" />
+    </list>
+    <ignored path="DemoGradle.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DemoGradle" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hugenet/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoGradle.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DemoGradle.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationConnectionRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hugenet/ApplicationConnectionRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationConnection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hugenet/ApplicationConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+              <folding>
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+                <element signature="e#1106#1107#0" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1190#1191#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
+                <element signature="e#1284#1285#0" expanded="true" />
+                <element signature="e#1322#1323#0" expanded="true" />
+                <element signature="e#1356#1357#0" expanded="true" />
+                <element signature="e#1410#1411#0" expanded="true" />
+                <element signature="e#1456#1457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="https://github.com/hughbrien/DemoGradle" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="DemoGradle" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="DemoGradle" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the main distributions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assembleMainDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'DemoGradle'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'DemoGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'DemoGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distTar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Bundles the project as a distribution." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="distZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a JVM application along with libs and OS specific scripts." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the project as a distribution as-is." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="installDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'DemoGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'DemoGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a JVM application" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates OS specific scripts to run the project as a JVM application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="startScripts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'DemoGradle'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1454015677000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.4.RELEASE/ac0a24fb3bced1f9c3274793525a74bd8e09e56b/spring-core-4.2.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.4.RELEASE/160ccd89230753d4f49477a967f5876b034d9745/spring-core-4.2.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-mongodb/1.3.2.RELEASE/4ff4b2690cc53c7ddb562da6fba316a63df937d9/spring-boot-starter-data-mongodb-1.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-mongodb/1.3.2.RELEASE/66efc32104df98c31749fdcf7ff4f05ce465a1c7/spring-boot-starter-data-mongodb-1.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.2.RELEASE/7931203fa2b9c7c9d19e3b6ec8f4a55292e90d6f/spring-boot-starter-1.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.2.RELEASE/bf98e5da17df2f2c1a7b099631de0f53b663e57f/spring-boot-starter-1.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.13.3/72284343707580e77d93d9df02da83ea9f32018f/mongo-java-driver-2.13.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/mongo-java-driver/2.13.3/e8835850d2866528ecd45617f837c8110341ec99/mongo-java-driver-2.13.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.8.2.RELEASE/f743ec13af4caa58545c587aa8bf46db927e7259/spring-data-mongodb-1.8.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/1.8.2.RELEASE/b279df28ed7340c6968bee0b32b827ed1cc4ce4e/spring-data-mongodb-1.8.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.3.2.RELEASE/cb4d2dc086b754cf2961b7763c4d06f427a86913/spring-boot-1.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.3.2.RELEASE/62d0b690a08be593bb0288e0ec93f5bda52be6a/spring-boot-1.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.3.2.RELEASE/94747b7298f03658d45fd6da3a99255eed3ab61c/spring-boot-autoconfigure-1.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.3.2.RELEASE/dbd3d19d62e588b7fd495e8a3071ff076d0f74d5/spring-boot-autoconfigure-1.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.3.2.RELEASE/bc0de996c28186223d4bee65348112c6370581ff/spring-boot-starter-logging-1.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.3.2.RELEASE/f45580c295d3d340b6af23562fa034d48cef085a/spring-boot-starter-logging-1.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/ad03b39efb3749be4c8d2eae23d6dee72c889f3b/snakeyaml-1.16-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.16/d64fb662c9e42789149f5078a62a22edda786c6a/snakeyaml-1.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.2.4.RELEASE/52ccbd22e04e295d1642c46abdae5a9657d16de3/spring-tx-4.2.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.2.4.RELEASE/66e1a131263f5f9ba95943061b22ff2666930ca6/spring-tx-4.2.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.4.RELEASE/6bb77fb5a402a814329db35e9678803d14ebf1bd/spring-context-4.2.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.4.RELEASE/23cd0109e4eafc5629547e3680b0c4031e82efdd/spring-context-4.2.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.4.RELEASE/9e3b3823c8fd75c4c57afe9bb7c9d4f26c6d97e/spring-beans-4.2.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.4.RELEASE/dc8e0874b53435f3e277d9da5aebd8b93cc7cf64/spring-beans-4.2.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.4.RELEASE/4331326a05efe7890fa82ac3cdde6d396f025752/spring-expression-4.2.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.4.RELEASE/15b6f6d61bc68fe2cc6cbd63e2329601afb8b39/spring-expression-4.2.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.2.RELEASE/33efeac9732261efa4c7eacb3d7db4d6674936ac/spring-data-commons-1.11.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.2.RELEASE/6422e6f06584244d846d6bc74e5f2c163701b89a/spring-data-commons-1.11.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.13/96e785df399a4e1a6c030877097807b7e18520cc/slf4j-api-1.7.13-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.13/7fcf30c25b8f4a9379b9dad0d3f487b25272c026/slf4j-api-1.7.13.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.13/988decf2bd4133c233f1e63f0da7368ee78c6405/jcl-over-slf4j-1.7.13-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.13/d78d2242e14e4182625152d225f76ae52b43491d/jcl-over-slf4j-1.7.13.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/f4915df0360e7529c61f9e78ef3a06c19238e62e/logback-classic-1.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.3/d90276fff414f06cb375f2057f6778cd63c6082f/logback-classic-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.13/82c0b8827ff637d6d15abf9bcc4a26c55a6cb4ce/jul-to-slf4j-1.7.13-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.13/43759e986de5fec7045e35e9533e5ad2f6cd1b05/jul-to-slf4j-1.7.13.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.13/5cab642de2658baebc2ceb416e28995996bea680/log4j-over-slf4j-1.7.13-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.13/b5f4685073a6ffba6bf7e1d51e2b5fb83bdfa953/log4j-over-slf4j-1.7.13.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.4.RELEASE/624e142c456bd8622e27e959dc3e1b192524ba84/spring-aop-4.2.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.4.RELEASE/3329cf71b4bc49c9767ca4f0704ed7b773f29fba/spring-aop-4.2.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/a69d9a62a693f391ad19d8ac19fa85a7a60cbc7c/logback-core-1.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.3/e3c02049f2dbbc764681b40094ecf0dcbc99b157/logback-core-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.2.RELEASE/30d392cf445b120f935f190b360ede6f7d358a38/spring-boot-gradle-plugin-1.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.2.RELEASE/2452f2166eac3c6bf56eada0a0cdbfcb7edc7aad/spring-boot-gradle-plugin-1.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.2.RELEASE/d11b92a358fdd058311d0bff8bb1dfef7faaace9/spring-boot-loader-tools-1.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.2.RELEASE/b00f2ca96363a4152414b34b941f7fc861a34fe3/spring-boot-loader-tools-1.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.4.RELEASE/47dcbe179ea333e9b70e9c254f71f39b846db9f4/dependency-management-plugin-0.5.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.4.RELEASE/99e9405add0470cda7c8b8b5a4a723d7ba19f458/dependency-management-plugin-0.5.4.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="DemoGradle" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/announce" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/antlr" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/base-services" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/base-services-groovy" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/build-comparison" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/build-init" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/cli" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/code-quality" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/core" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/cunit" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/dependency-management" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/diagnostics" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/ear" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/ide" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/ide-native" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/internal-integ-testing" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/internal-testing" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/ivy" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/jacoco" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/javascript" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/jetty" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/language-groovy" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/language-java" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/language-jvm" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/language-native" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/language-scala" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/launcher" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/maven" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/messaging" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/model-core" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/model-groovy" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/native" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/open-api" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/osgi" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/platform-base" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/platform-jvm" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/platform-native" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/platform-play" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/plugin-development" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/plugin-use" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/plugins" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/publish" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/reporting" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/resources" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/resources-http" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/scala" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/signing" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/sonar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/tooling-api" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/ui" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/src/wrapper" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/ant-1.9.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-base-services-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-base-services-groovy-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-cli-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-core-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-docs-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-launcher-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-messaging-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-model-core-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-model-groovy-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-native-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-open-api-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-resources-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-tooling-api-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-ui-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/gradle-wrapper-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/groovy-all-2.3.9.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-announce-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-antlr-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-build-comparison-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-build-init-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-code-quality-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-cunit-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-dependency-management-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-diagnostics-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-ear-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-ide-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-ide-native-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-ivy-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-jacoco-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-javascript-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-jetty-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-language-groovy-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-language-java-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-language-jvm-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-language-native-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-language-scala-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-maven-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-osgi-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-platform-base-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-platform-jvm-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-platform-native-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-platform-play-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-plugin-development-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-plugin-use-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-plugins-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-publish-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-reporting-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-resources-http-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-scala-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-signing-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/gradle-sonar-2.3.jar" />
+                  <option value="$PROJECT_DIR$/../../gradle-2.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/hugenet/com/hugenet/ApplicationConnectionRepository.java" />
+        <option value="$PROJECT_DIR$/src/com/hugenet/ApplicationConnection.java" />
+        <option value="$PROJECT_DIR$/src/com/hugenet/Application.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DemoGradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hugenet.Application" />
+      <module name="DemoGradle" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DemoGradle" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf29da05-4b3f-41a9-b8a4-772975ca7337" name="Default" comment="" />
+      <created>1454015715470</created>
+      <option name="number" value="Default" />
+      <updated>1454015715470</updated>
+      <workItem from="1454015719551" duration="2126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2126000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38940397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hugenet/ApplicationConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hugenet/ApplicationConnectionRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hugenet/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DemoGradle.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
