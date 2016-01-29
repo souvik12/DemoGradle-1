@@ -37,7 +37,14 @@ public class Application implements CommandLineRunner {
         apCon.setCredential("demo");
         apCon.setUserId("hbrien");
         repository.save(apCon);
-        repository.save(new ApplicationConnection("apprenda", "http://apprenda.saas.appdynamics.com" ));
+
+        ApplicationConnection apprenda1 =  new ApplicationConnection("apprenda", "http://apprenda.saas.appdynamics.com" );
+        apprenda1.setCredential("apprenda");
+        apprenda1.setCredential("hbrien");
+        repository.save(apprenda1);
+
+
+
         repository.save(new ApplicationConnection("demo2", "http://demo2.appdynamics.com" ));
         repository.save(new ApplicationConnection("demo1", "http://demo1.appdynamics.com" ));
 
