@@ -16,7 +16,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-
 public class Application implements CommandLineRunner {
 
     @Autowired
@@ -42,8 +41,6 @@ public class Application implements CommandLineRunner {
         apprenda1.setCredential("apprenda");
         apprenda1.setCredential("hbrien");
         repository.save(apprenda1);
-
-
 
         repository.save(new ApplicationConnection("demo2", "http://demo2.appdynamics.com" ));
         repository.save(new ApplicationConnection("demo1", "http://demo1.appdynamics.com" ));
