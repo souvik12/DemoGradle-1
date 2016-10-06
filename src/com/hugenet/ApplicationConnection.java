@@ -2,9 +2,6 @@ package com.hugenet;
 
 import org.springframework.data.annotation.Id;
 
-/**
- * Created by hbrien on 1/28/16.
- */
 public class ApplicationConnection {
     @Id
     private String id;
