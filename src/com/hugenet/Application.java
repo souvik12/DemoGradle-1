@@ -5,15 +5,6 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * Application configuration and bootstrap
- *
- * java -jar <Path to collector-name.jar>
- * --spring.config.name=<prefix for properties>
- * --spring.config.location=<path to properties file location>
- *
- */
-
 
 @SpringBootApplication
 public class Application implements CommandLineRunner {
